@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPressed">#cac4c4</color>
+    <color name="colorSelected">#a3a3a3</color>
+    <color name="colorHighlighted">#ffe605</color>
+    <color name="defaultGrey">#00eeeeee</color>
+    <color name="lightBlack">#303030</color>
+    <color name="darkBlack">#1b1b1b</color>
+    <color name="white">#fff</color>
+    <color name="lightPurple">#8c9eff</color>
+
+    <color name="opaque_colorPrimary">#293f51b5</color>
+    <color name="opaque_colorPrimaryDark">#26303f9f</color>
+    <color name="opaque_colorAccent">#2eff4081</color>
+
+    <!-- for sectioned adapter -->
+    <color name="app_background_color">#FAFAFA</color>
+    <color name="divider_color">#C7C7CC</color>
+
+    <color name="item_selected_background_color">#C7C7CC</color>
+    <color name="image_placeholder_background_color">#C7C7CC</color>
+
+
+</resources>
